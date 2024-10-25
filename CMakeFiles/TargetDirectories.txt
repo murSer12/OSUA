@@ -1,3 +1,0 @@
-/home/mur/Документы/OSUA/CMakeFiles/osua_executable.dir
-/home/mur/Документы/OSUA/CMakeFiles/edit_cache.dir
-/home/mur/Документы/OSUA/CMakeFiles/rebuild_cache.dir

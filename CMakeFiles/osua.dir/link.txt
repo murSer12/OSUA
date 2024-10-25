@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/osua.dir/kernel/boot.c.o CMakeFiles/osua.dir/kernel/kernel.c.o -o osua 
